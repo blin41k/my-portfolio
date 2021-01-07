@@ -48,6 +48,7 @@ body {
 
 .hero-image {
   margin-bottom: 480px;
+  height: 30vh;
 }
 
 .hero-image .container {
