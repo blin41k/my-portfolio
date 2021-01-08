@@ -161,7 +161,6 @@ body {
 .intro {
   padding-top: 160px;
   padding-bottom: 120px;
-  min-height: 828px;
 }
 
 .subheading {
@@ -292,7 +291,8 @@ body {
 }
 
 .button {
-  margin: 0;
+  margin-top: 0px;
+  margin-bottom: 13px;
   padding: 8px 24px;
   display: inline-block;
   vertical-align: baseline;
@@ -325,5 +325,6 @@ body {
 }
 
 .my-skills {
-  margin-top: 1000px;
+  margin: 0;
+  padding-bottom: 160px;
 }
