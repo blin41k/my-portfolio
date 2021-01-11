@@ -159,3 +159,21 @@ p.contacts-name {
   margin: 0;
   padding: 0;
 }
+
+.button {
+  margin-top: 0px;
+  margin-bottom: 13px;
+  padding: 8px 24px;
+  display: inline-block;
+  vertical-align: baseline;
+  font-size: 14px;
+  font-weight: 500;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: #0b0c23;
+  background-color: #f9dd79;
+  box-shadow: 0 4px 16px rgba(249, 221, 121, 0.4);
+  border-radius: 24px;
+  transition: background-color 100ms, box-shadow 100ms;
+}
